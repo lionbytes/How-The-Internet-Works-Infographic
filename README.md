@@ -3,7 +3,7 @@ An infographic that simplifies and illustrates the way the internet works.
 
 <img src="https://github.com/lionbytes/How-The-Internet-Works-Infographic/blob/master/How-Internet-Works.png" alt="">
 
-# Transcription
+# Definitions Transcription
 
 ### ISP (Internet Service Provider)
 An organization that provides its subscribers with services accessing and using the Internet.
