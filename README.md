@@ -1,7 +1,7 @@
 # How The Internet Works Infographic
 An infographic that simplifies and illustrates the way the internet works.
 
-<img src="https://github.com/lionbytes/How-The-Internet-Works-Infographic/blob/master/How-Internet-Works.png" alt="">
+<img src="https://github.com/lionbytes/How-The-Internet-Works-Infographic/blob/master/graphics-only.png" alt="">
 
 # Transcribed Definitions
 
