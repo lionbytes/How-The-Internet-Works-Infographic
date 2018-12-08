@@ -1,7 +1,7 @@
 # How The Internet Works Infographic
 An infographic that simplifies and illustrates the way the internet works.
 
-### ISP (Internet Service Provider)
+## ISP (Internet Service Provider)
 An organization that provides its subscribers with services accessing and using the Internet.
 
 ### Clients
