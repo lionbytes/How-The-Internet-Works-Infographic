@@ -3,7 +3,7 @@ An infographic that simplifies and illustrates the way the internet works.
 
 <img src="https://github.com/lionbytes/How-The-Internet-Works-Infographic/blob/master/graphics-only.png" alt="">
 
-# Transcribed Definitions
+# Definitions
 An image with the below definitions included is available as well, you can find it in the repo.
 
 ### ISP (Internet Service Provider)
