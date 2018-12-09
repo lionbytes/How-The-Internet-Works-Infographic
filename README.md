@@ -2,7 +2,7 @@
 <img src="https://github.com/lionbytes/How-The-Internet-Works-Infographic/blob/master/infographic-graphics-only.png" alt="">
 
 # Definitions
-An image with the below definitions included is available as well, you can find it in the repo.
+An image with the below definitions included is available as well. You can find a vertical and a horizontal version of it in the repo.
 
 ### ISP (Internet Service Provider)
 An organization that provides its subscribers with services accessing and using the Internet.
