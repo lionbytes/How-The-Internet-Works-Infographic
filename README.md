@@ -1,5 +1,5 @@
 # How The Internet Works Infographic
-<img src="https://github.com/lionbytes/How-The-Internet-Works-Infographic/blob/master/graphics-only.png" alt="">
+<img src="https://github.com/lionbytes/How-The-Internet-Works-Infographic/blob/master/infographic-graphics-only.png" alt="">
 
 # Definitions
 An image with the below definitions included is available as well, you can find it in the repo.
